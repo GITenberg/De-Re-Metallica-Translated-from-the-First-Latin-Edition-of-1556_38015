@@ -1,0 +1,54 @@
+_repo: De-Re-Metallica-Translated-from-the-First-Latin-Edition-of-1556_38015
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Hoover, Lou Henry
+    aliases:
+    - Hoover, Mrs. Herbert
+    - Henry, Lou
+    birthdate: &id001 1874
+    deathdate: 1944
+    gutenberg_agent_id: '39198'
+    url: http://www.gutenberg.org/2009/agents/39198
+    wikipedia: http://en.wikipedia.org/wiki/Lou_Henry_Hoover
+  - agent_name: Hoover, Herbert
+    aliases:
+    - Hoover, Herbert Clark
+    - United States President (1929-1933)
+    birthdate: *id001
+    deathdate: 1964
+    gutenberg_agent_id: '1662'
+    url: http://www.gutenberg.org/2009/agents/1662
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Hoover
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Agricola, Georg
+    aliases:
+    - Agricola, Georgius
+    - Agricola
+    - Bauer, Georg
+    birthdate: 1494
+    deathdate: 1555
+    gutenberg_agent_id: '39197'
+    url: http://www.gutenberg.org/2009/agents/39197
+    wikipedia: http://en.wikipedia.org/wiki/Georgius_Agricola
+description: ''
+gutenberg_issued: '2011-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TN'
+- !lcsh 'Metallurgy -- Early works to 1800'
+- !lcsh 'Zoology -- Pre-Linnaean works'
+- !lcsh 'Paleontology -- Early works to 1800'
+- !lcsh 'Mineral industries -- Early works to 1800'
+title: De Re Metallica, Translated from the First Latin Edition of 1556
+url: http://www.gutenberg.org/ebooks/38015
