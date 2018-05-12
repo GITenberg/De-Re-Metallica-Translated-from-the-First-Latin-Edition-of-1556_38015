@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Hoover, Mrs. Herbert
     - Henry, Lou
-    birthdate: &id001 1874
+    birthdate: 1874
     deathdate: 1944
     gutenberg_agent_id: '39198'
     url: http://www.gutenberg.org/2009/agents/39198
@@ -15,7 +15,7 @@ contributor:
     aliases:
     - Hoover, Herbert Clark
     - United States President (1929-1933)
-    birthdate: *id001
+    birthdate: 1874
     deathdate: 1964
     gutenberg_agent_id: '1662'
     url: http://www.gutenberg.org/2009/agents/1662
@@ -36,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39197
     wikipedia: http://en.wikipedia.org/wiki/Georgius_Agricola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38015#De-Re-Metallica-Translated-from-the-First-Latin-Edition-of-1556
 gutenberg_issued: '2011-11-14'
 gutenberg_type: Text
 identifiers:
